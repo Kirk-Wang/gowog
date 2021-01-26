@@ -8,8 +8,10 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/giongto35/gowog/server/game"
-	"github.com/giongto35/gowog/server/game/ws"
+	"gowog-cloud/game/ws"
+
+	"gowog-cloud/game"
+
 	"github.com/gorilla/websocket"
 	"github.com/pkg/profile"
 )

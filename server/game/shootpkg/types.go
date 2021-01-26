@@ -1,7 +1,9 @@
 package shootpkg
 
-import "github.com/giongto35/gowog/server/game/shape"
-import "time"
+import (
+	"gowog-cloud/game/shape"
+	"time"
+)
 
 type Shoot interface {
 	GetShootAtTime(CurrentTime time.Time) Shoot

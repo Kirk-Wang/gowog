@@ -8,12 +8,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/giongto35/gowog/server/Message_proto"
-	"github.com/giongto35/gowog/server/game/common"
-	"github.com/giongto35/gowog/server/game/gameconst"
-	"github.com/giongto35/gowog/server/game/mappkg"
-	"github.com/giongto35/gowog/server/game/objmanager"
-	"github.com/giongto35/gowog/server/game/ws"
+	"gowog-cloud/Message_proto"
+	"gowog-cloud/game/common"
+	"gowog-cloud/game/gameconst"
+	"gowog-cloud/game/mappkg"
+	"gowog-cloud/game/objmanager"
+	"gowog-cloud/game/ws"
+
 	"github.com/golang/protobuf/proto"
 )
 

@@ -3,8 +3,8 @@ package eventmanager
 import (
 	"time"
 
-	"github.com/giongto35/gowog/server/game/playerpkg"
-	"github.com/giongto35/gowog/server/game/shootpkg"
+	"gowog-cloud/game/playerpkg"
+	"gowog-cloud/game/shootpkg"
 )
 
 type EventManager interface {

@@ -37,7 +37,7 @@ Different entities call each other through channel which is wrapped in a functio
 
 ### Client Server sample interaction
 
-Client here is webpage, Server is main backend.
+Client 在这里是网页，Server 是主后台。
 
 #### Player connect
 ![PlayerConnect](../document/images/playerconnect.png)

@@ -5,10 +5,11 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/giongto35/gowog/server/Message_proto"
-	"github.com/giongto35/gowog/server/game/common"
-	"github.com/giongto35/gowog/server/game/gameconst"
-	"github.com/giongto35/gowog/server/game/shape"
+	"gowog-cloud/Message_proto"
+	"gowog-cloud/game/common"
+	"gowog-cloud/game/gameconst"
+	"gowog-cloud/game/shape"
+
 	"github.com/golang/protobuf/ptypes"
 )
 

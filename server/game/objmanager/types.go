@@ -3,9 +3,9 @@ package objmanager
 import (
 	"time"
 
-	"github.com/giongto35/gowog/server/game/mappkg"
-	"github.com/giongto35/gowog/server/game/playerpkg"
-	"github.com/giongto35/gowog/server/game/shootpkg"
+	"gowog-cloud/game/mappkg"
+	"gowog-cloud/game/playerpkg"
+	"gowog-cloud/game/shootpkg"
 )
 
 type ObjectManager interface {

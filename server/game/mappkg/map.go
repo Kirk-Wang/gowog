@@ -3,9 +3,9 @@ package mappkg
 import (
 	"strings"
 
-	"github.com/giongto35/gowog/server/Message_proto"
-	"github.com/giongto35/gowog/server/game/config"
-	"github.com/giongto35/gowog/server/game/shape"
+	"gowog-cloud/Message_proto"
+	"gowog-cloud/game/config"
+	"gowog-cloud/game/shape"
 )
 
 // Map doesn't contain proto because proto cannot store 2d

@@ -3,7 +3,7 @@ package shootpkg
 import (
 	"time"
 
-	"github.com/giongto35/gowog/server/game/shape"
+	"gowog-cloud/game/shape"
 )
 
 type ShootObject struct {

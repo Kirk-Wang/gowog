@@ -10,16 +10,17 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/giongto35/gowog/server/game/common"
-	"github.com/giongto35/gowog/server/game/mappkg"
-	"github.com/giongto35/gowog/server/game/objmanager"
-	"github.com/giongto35/gowog/server/game/playerpkg"
-	"github.com/giongto35/gowog/server/game/shape"
-	"github.com/giongto35/gowog/server/game/shootpkg"
+	"gowog-cloud/game/common"
+	"gowog-cloud/game/mappkg"
+	"gowog-cloud/game/objmanager"
+	"gowog-cloud/game/playerpkg"
+	"gowog-cloud/game/shape"
+	"gowog-cloud/game/shootpkg"
 
-	"github.com/giongto35/gowog/server/Message_proto"
-	"github.com/giongto35/gowog/server/game/gameconst"
-	"github.com/giongto35/gowog/server/game/ws"
+	"gowog-cloud/Message_proto"
+	"gowog-cloud/game/gameconst"
+	"gowog-cloud/game/ws"
+
 	"github.com/golang/protobuf/proto"
 )
 

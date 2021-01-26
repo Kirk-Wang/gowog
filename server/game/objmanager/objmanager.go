@@ -5,12 +5,12 @@ import (
 	"math"
 	"time"
 
-	"github.com/giongto35/gowog/server/game/common"
-	"github.com/giongto35/gowog/server/game/gameconst"
-	"github.com/giongto35/gowog/server/game/mappkg"
-	"github.com/giongto35/gowog/server/game/playerpkg"
-	"github.com/giongto35/gowog/server/game/shape"
-	"github.com/giongto35/gowog/server/game/shootpkg"
+	"gowog-cloud/game/common"
+	"gowog-cloud/game/gameconst"
+	"gowog-cloud/game/mappkg"
+	"gowog-cloud/game/playerpkg"
+	"gowog-cloud/game/shape"
+	"gowog-cloud/game/shootpkg"
 )
 
 type objManager struct {

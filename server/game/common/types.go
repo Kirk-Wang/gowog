@@ -1,6 +1,6 @@
 package common
 
-import "github.com/giongto35/gowog/server/game/ws"
+import "gowog-cloud/game/ws"
 
 // DestroyPlayerEvent is event sent from objManager to game master
 type DestroyPlayerEvent struct {

@@ -42,10 +42,8 @@ To see the game, open your browser and enter http://localhost:3000 into the addr
 │   │   └── utils.js
 ```
 
-Each object is a class inherited from Sprite.
-Player contain shootManager, each time player fires, a new bullet is generated from shoot manager .
+每个对象都是从 `Sprite` 继承的类。
+玩家包含 `shootManager`，每次射击时，shoot manager 都会生成新的 bullet。
 
-## Credits
-
-The Frontend codebase is based on
-https://github.com/RenaudROHLINGER/phaser-es6-webpack
+这个前端项目是基于：
+* https://github.com/RenaudROHLINGER/phaser-es6-webpack

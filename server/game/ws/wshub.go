@@ -5,7 +5,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/giongto35/gowog/server/game/gameconst"
+	"gowog-cloud/game/gameconst"
+
 	"github.com/gorilla/websocket"
 )
 

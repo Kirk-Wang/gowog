@@ -1,7 +1,7 @@
 package game
 
 import (
-	"github.com/giongto35/gowog/server/game/ws"
+	"gowog-cloud/game/ws"
 )
 
 type Game interface {
